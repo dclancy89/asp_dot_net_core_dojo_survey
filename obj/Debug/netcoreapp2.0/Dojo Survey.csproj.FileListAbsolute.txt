@@ -1,0 +1,10 @@
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Dojo Survey/bin/Debug/netcoreapp2.0/Dojo Survey.deps.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Dojo Survey/bin/Debug/netcoreapp2.0/Dojo Survey.runtimeconfig.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Dojo Survey/bin/Debug/netcoreapp2.0/Dojo Survey.runtimeconfig.dev.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Dojo Survey/bin/Debug/netcoreapp2.0/Dojo Survey.dll
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Dojo Survey/bin/Debug/netcoreapp2.0/Dojo Survey.pdb
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Dojo Survey/obj/Debug/netcoreapp2.0/Dojo Survey.csproj.CoreCompileInputs.cache
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Dojo Survey/obj/Debug/netcoreapp2.0/Dojo Survey.AssemblyInfoInputs.cache
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Dojo Survey/obj/Debug/netcoreapp2.0/Dojo Survey.AssemblyInfo.cs
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Dojo Survey/obj/Debug/netcoreapp2.0/Dojo Survey.dll
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/ASP.NET Core/Dojo Survey/obj/Debug/netcoreapp2.0/Dojo Survey.pdb
